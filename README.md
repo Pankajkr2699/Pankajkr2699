@@ -39,14 +39,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajkr2699&show_icons=true&locale=en&layout=compact" alt="Pankajkr2699" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pankajkr2699" alt="Pankajkr2699" /></a></p>
 
-<img src="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/snake.svg" alt="Snake animation" />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake.svg" />
-</picture>
-
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/cruchflow">
@@ -54,3 +46,9 @@
 </a>
 </p>
 </p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/snake.svg" alt="Snake animation" />
+
+###
