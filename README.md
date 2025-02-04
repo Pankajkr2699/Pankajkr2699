@@ -1,4 +1,7 @@
 <h1>Hi 👋, I'm Pankaj Kumar. 😎</h1>
+<div align=center> 
+         <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+welcome+to+my+Profile.+%F0%9F%98%8A;This+is+Pankaj+kumar.%F0%9F%98%8E;Fill+free+to+use+My+repository.+%F0%9F%91%9C;You+can+also+support+my+work.+%E2%9D%A4%EF%B8%8F" alt="Headline" /> 
+</div> 
 <p>An enthusiast for technology with expertise in Python, JavaScript, C++, Docker, AWS, and MySQL databases. presently studying machine learning as well as artificial intelligence. Checkout my website for more information. </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
@@ -34,20 +37,24 @@
 <a target="_blank" href="https://www.youtube.com/@cruchflow" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/26576470" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankajkr2699&show_icons=true&locale=en" alt="Pankajkr2699" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pankajkr2699&" alt="Pankajkr2699" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pankajkr2699&show_icons=true&locale=en&layout=compact" alt="Pankajkr2699" /></p>
+
+
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pankajkr2699" alt="Pankajkr2699" /></a></p>
 
-<h2>❤️ Support Me</h2>
-<p><p>
-<a href="https://www.buymeacoffee.com/cruchflow">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
-</a>
-</p>
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake.svg" />
 </picture>
+
+<h2>❤️ Support Us</h2>
+<p><p>
+<a href="https://www.buymeacoffee.com/cruchflow">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
+</a>
+</p>
+</p>
