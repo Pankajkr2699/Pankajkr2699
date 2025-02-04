@@ -26,12 +26,11 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/@PankajKr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<p><a target="_blank" href="https://x.com/@PankajKr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="X" /></a>
 <a target="_blank" href="https://dev.to/@pankajkr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/in/pankajkr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/pankajkr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/pankajkumar75821" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://codesandbox.com/u/cruchflow" style="display: inline-block;"><img src="https://img.shields.io/badge/codesandbox?style=for-the-badge&logo=codesandbox&logoColor=white&color=black" alt="codesandbox" /></a>
-<a target="_blank" href="undefined@pankajkr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
+<a target="_blank" href="https://medium.com/@pankajkr2699" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/@cruchflow" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/26576470" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pankajkr2699&show_icons=true&locale=en" alt="Pankajkr2699" /></p>
@@ -47,8 +46,8 @@
 </p>
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/snake.svg" alt="Snake animation" />
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Pankajkr2699/Pankajkr2699/output/github-snake.svg" />
+</picture>
